@@ -1,0 +1,35 @@
+#nav{
+	font-family: Sans-serif;
+	font-size: 20px;
+}
+
+#nav{
+	text-transform:uppercase;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+#header{
+  font-family: verdana;
+  font-size: 30px;
+  color: black;	
+}
+.link{
+	font-size: 15px;
+}
+#foot{
+	font-size: 10px;
+	color: black;	
+}
+@media screen and (min-width: 1500px) {
+  body {
+    background-color: hsla(0, 100%, 90%, 0.3);
+  }
+}
